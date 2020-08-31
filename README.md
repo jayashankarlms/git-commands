@@ -1,7 +1,7 @@
 # git-commands
 Git commands Examples
 
-#git status
+# git status
 ------------------------------------------
 git status command tells you about how your project is progressing in comparison to your Bitbucket repository.
 ------------------------------------------
